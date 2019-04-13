@@ -1,2 +1,2 @@
-# Java-Challenges--Hard
+# Java-Challenges--Medium
 (keep updating)
