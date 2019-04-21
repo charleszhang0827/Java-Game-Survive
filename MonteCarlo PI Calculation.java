@@ -105,6 +105,3 @@ public class MonteCarloPICalculation {
 		MCPCO=new MonteCarloPICalculation();
 	}
 }
-sdadas
-fsda
-fsda
