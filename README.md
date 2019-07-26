@@ -1,5 +1,6 @@
 # Java-Game-Survive
-Game Survive Made In Java Without Additional Libraries By Dominic Jiang
+
+Game Survive made in Java without additional libraries by Dominic Jiang
 
 ## Contributor List:
 
