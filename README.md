@@ -24,3 +24,5 @@ hgh
 ggy
 
 gg meansa good game lol
+
+ok today I am going up to 40
