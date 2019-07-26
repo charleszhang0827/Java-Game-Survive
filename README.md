@@ -22,3 +22,5 @@ g
 this is what I mean
 hgh
 ggy
+
+gg meansa good game lol
