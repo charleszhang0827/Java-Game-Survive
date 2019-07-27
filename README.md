@@ -16,6 +16,8 @@ Game Survive made in Java without additional libraries by Dominic Jiang
 
 //ScreenShotOne 
 
+So what is up
+
 4. And the game should be ready to go
 
 ## Command Center
