@@ -18,6 +18,8 @@ Game Survive made in Java without additional libraries by Dominic Jiang
 
 So what is up
 
+I will finish up the game tomorrow
+
 4. And the game should be ready to go
 
 ## Command Center
