@@ -27,7 +27,8 @@ public class Window {
 	private void createWindow() {
 		frame=new JFrame();
 		frame.setTitle(title);
-		frame.setSize(width,height);
+		frame.setUndecorated(true);
+		frame.getGraphicsConfiguration().getDevice().setFullScreenWindow(frame);
 		frame.setVisible(true);
 		frame.setResizable(false);
 		frame.setLocationRelativeTo(null);
