@@ -20,11 +20,11 @@ public class Launch {
 	
 	public Launch() {
 		
-		Toolkit tk=Toolkit.getDefaultToolkit();
+		Toolkit toolKit=Toolkit.getDefaultToolkit();
 		
-		width=(int)tk.getScreenSize().getWidth();
+		width=(int)(toolKit.getScreenSize().getWidth());
 		
-		height=(int)tk.getScreenSize().getHeight();
+		height=(int)(toolKit.getScreenSize().getHeight());
 		
 		window=new Window(title,width,height);
 		display=new Display(window);
