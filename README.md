@@ -23,9 +23,3 @@ Game Survive made in Java without additional libraries by Dominic Jiang
 # For More Games And Coding Projects
 
 # Please Follow dominicjiang On Github
-
-ok
-
-nice
-
-and go
