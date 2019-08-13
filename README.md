@@ -48,3 +48,9 @@ what is going on my dude
 
 
 jesus christ this dude is crazy as hell
+
+
+
+How to you like this program now
+
+this has some kind of bugs that I will fix in the future
