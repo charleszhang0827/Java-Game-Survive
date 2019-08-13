@@ -43,4 +43,6 @@ sjaihig d
 last step till I learn\
 
 the last security problem is that this commit is f
-this has some kind of bugs that I will fix in the future
+this has some kind of bugs that I will
+
+this is okfix in the future
