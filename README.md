@@ -23,26 +23,3 @@ Game Survive made in Java without additional libraries by Dominic Jiang
 # For More Games And Coding Projects
 
 # Please Follow dominicjiang On Github
-
-1
-2
-3 jisdjisa 
-what is up 
-2
-43f
-wds
-2
-342
-why the wifi is so lack
-fdsa
-vs
-vfsd
-what is tha last thing that I want
-ehisaid fsd sa
-sjaihig d
-last step till I learn\
-
-the last security problem is that this commit is f
-this has some kind of bugs that I will
-
-this is okfix in the future
