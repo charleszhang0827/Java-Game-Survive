@@ -33,7 +33,7 @@ what is up
 wds
 2
 342
-
+why the wifi is so lack
 fdsa
 vs
 vfsd
