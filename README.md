@@ -42,10 +42,6 @@ ehisaid fsd sa
 sjaihig d
 last step till I learn\
 
-the last security problem is that this commit is fired
+the last security problem is that this commit is fire
 
-pop is the library for the thing that I learn
-
-lol is the most professional pro
-stack overflow
-blem that I hate to see what is pa
+what is going on my dude
