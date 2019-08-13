@@ -42,15 +42,5 @@ ehisaid fsd sa
 sjaihig d
 last step till I learn\
 
-the last security problem is that this commit is fire
-
-what is going on my dude
-
-
-jesus christ this dude is crazy as hell
-
-
-
-How to you like this program now
-
+the last security problem is that this commit is f
 this has some kind of bugs that I will fix in the future
