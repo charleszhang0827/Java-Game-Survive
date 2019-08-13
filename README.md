@@ -45,3 +45,6 @@ last step till I learn\
 the last security problem is that this commit is fire
 
 what is going on my dude
+
+
+jesus christ this dude is crazy as hell
