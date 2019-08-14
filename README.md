@@ -32,3 +32,5 @@ Game Survive made in Java without additional libraries by Dominic Jiang
  terms and securities
  '
  status and help
+ 
+ 刘一水把书记给拒绝了 你说巧不巧
