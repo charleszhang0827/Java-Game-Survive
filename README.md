@@ -24,16 +24,4 @@ Game Survive made in Java without additional libraries by Dominic Jiang
 
 # Please Follow dominicjiang On Github
 
-1 2321
- what os good and this is the last version of this program that actually counts
- 
- the last commitment
- 
- terms and securities
- '
- status and help
- 
- 刘一水把书记给拒绝了 你说巧不巧
-this is a very bad idea that I count this as a zero percent of this program
-
-This is a pretty bad thing that I learnt as a perception
+# Please Follow dominicjiang On Github that I helped as a program
