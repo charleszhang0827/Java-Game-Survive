@@ -25,3 +25,8 @@ Game Survive made in Java without additional libraries by Dominic Jiang
 # Please Follow dominicjiang On Github
 
 1 2321
+ what os good and this is the last version of this program that actually counts
+ 
+ the last commitment
+ 
+ 
