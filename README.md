@@ -30,4 +30,5 @@ Game Survive made in Java without additional libraries by Dominic Jiang
  the last commitment
  
  terms and securities
- 
+ '
+ status and help
