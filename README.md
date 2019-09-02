@@ -14,6 +14,9 @@ Game Survive made in Java without addtional libraries by Dominic Jiang
 
 3. Open terminal and type java (space) -jar (space) and drag the executable jar file in and press enter 
 
+![Screen Shot 2019-09-02 at 14 30 14](https://user-images.githubusercontent.com/49256436/64133885-4220b280-cd8e-11e9-975a-b88e4192e407.png)
+
+
 4. And the game should be ready to go 
 
 ## Command Center
