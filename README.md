@@ -18,6 +18,8 @@ Game Survive made in Java without addtional libraries by Dominic Jiang
 
 4. And the game should be ready to go 
 
+![Screen Shot 2019-09-02 at 14 37 48](https://user-images.githubusercontent.com/49256436/64134025-66c95a00-cd8f-11e9-918c-7e18efc702a1.png)
+
 ## Command Center
 
 1. Using A,W,S,D to move the player and for more detail check out the help section in the game
