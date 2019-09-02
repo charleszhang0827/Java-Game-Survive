@@ -38,6 +38,8 @@ Game Survive made in Java without addtional libraries by Dominic Jiang
 
 ![Screen Shot 2019-09-02 at 14 40 53](https://user-images.githubusercontent.com/49256436/64134164-4f3ea100-cd90-11e9-8ac6-6927337ec56f.png)
 
+![Screen Shot 2019-09-02 at 14 41 01](https://user-images.githubusercontent.com/49256436/64134173-63829e00-cd90-11e9-93b4-53ed76529fbe.png)
+
 
 # For More Games And Coding Projects 
 # Please Follow dominicjiang On Github
