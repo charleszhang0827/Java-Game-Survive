@@ -22,7 +22,7 @@ Game Survive made in Java without addtional libraries by Dominic Jiang
 
 2. Press space bar to check out shop and for more detial check out the help section in the game
 
-
+3. I wish you enjoy my application and have a wonderful rest of your day
 
 ## ScreenShot
 
